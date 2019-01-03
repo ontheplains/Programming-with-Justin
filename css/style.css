@@ -171,6 +171,14 @@ section{
     height: 69px;
 	display:block;
 }
+
+.img-responsive{
+	max-width:60%;
+	max-height:60%;
+	margin-left:auto;
+	margin-right:auto;
+
+}
 /*pwj Card*/
 .pwj-card{
 	text-align: center;
