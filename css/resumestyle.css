@@ -14,7 +14,8 @@ h1, h2, h3, h4, h5, h6{
 }
 h1{
 	font-size: 45px;
-  margin-bottom: 65px;
+	margin-top: 30px;
+  margin-bottom: 50px;
 }
 h2{
 	font-size: 32px;
@@ -229,7 +230,7 @@ section{
 
 /*Element page*/
 .element .navigation-bar{
-	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+	border-bottom: 0px solid rgba(0, 0, 0, 0.1);
 }
 .element .navigation-bar a{
 	color: #424242;
