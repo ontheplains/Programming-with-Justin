@@ -357,7 +357,7 @@ section{
 	vertical-align: middle;
 }
 .header h1{
-	margin: 0;
+	margin: 0;email
 }
 .header h1, .header p{
 	color: #fff;
@@ -396,7 +396,7 @@ section{
 	line-height: 200%;
 }
 .expert .bg-img{
-	background-image: url(../images/2.jpg);
+	background-image: url(../images/imagetest.jpg);
 	background-position-x: 85%;
 	height: 100%;
 }
@@ -410,7 +410,7 @@ section{
 
 
 .pwj-quote{
-	background-image: url(../images/3.jpg);
+	background-image: url(../images/backgroundimage3.jpg);
 	/*padding: 120px 0;*/
 	color: #fff;
 	font-style: italic;
@@ -450,26 +450,26 @@ section{
 	color: #424242;
 }
 
-.subscribe{
+.email{
 	background-image: url(../images/mountains.jpg);
 }
-.subscribe .pwj-btn{
+.email .pwj-btn{
 	margin-bottom: 0;
 	color: #424242;
 	font-weight: 700;
 	border-color: #fff;
 	background-color: #fff;
 }
-.subscribe .pwj-btn:hover{
+.email .pwj-btn:hover{
 	background-color: transparent;
 	color: #fff;
 }
-.subscribe p{
+.email p{
 	color: #fff;
 	font-size: 32px;
 	margin-bottom: 35px;
 }
-.subscribe .form-control{
+.email .form-control{
     width: 320px;
     margin-bottom: 0;
     border-color: #fff;
