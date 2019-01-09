@@ -48,7 +48,7 @@ section{
 	content: '';
 	height: 5px;
 	width: 40px;
-	background-color: #62aa94;
+	background-color: #ff6000;
 	position: absolute;
 	top: 81px;
 	left: calc(50% - 20px);
@@ -253,9 +253,9 @@ section{
 .social-icons ul a li{
 	display: inline-block;
 	list-style-type: none;
-    border: 2px solid #51c2b9;
+    border: 2px solid #2749f7;
     margin-right: 10px;
-    background-color: #51c2b9;
+    background-color: #2749f7;
     color: #fff;
 	font-size: 18px;
     line-height: 32px;
@@ -372,7 +372,7 @@ section{
 }
 
 .about{
-	background-color: #f8f8f8;
+	background-color: #F0efef;
 
 }
 .about img{
@@ -525,17 +525,17 @@ section{
 	left: -1px;
 }
 .owl-theme .owl-dots .owl-dot span{
-	background-color: #51c2b9;
+	background-color: #ff6000;
 	margin: 5px;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
-	background-color: #51c2b9;
+	background-color: #ff6000;
 	height: 14px;
 	width: 14px;
 	margin: 3px;
 }
-#technology{
-	background-color: #f8f8f8;
+#expertise {
+	background-color: #F0efef;
 }
 
 
