@@ -270,12 +270,6 @@ section{
 }
 
 
-
-
-
-
-
-
 /*Navigation*/
 #menu-item{
 	transition: all 0.3s ease-in-out;
@@ -379,6 +373,7 @@ section{
 
 .about{
 	background-color: #f8f8f8;
+
 }
 .about img{
 	margin: 30px auto;
@@ -411,7 +406,7 @@ section{
 
 
 .pwj-quote{
-	background-image: url(../images/backgroundimage3.jpg);
+	background-image: url(../images/quoteimage.jpg);
 	/*padding: 120px 0;*/
 	color: #fff;
 	font-style: italic;
@@ -519,8 +514,6 @@ section{
 }
 
 
-
-
 /*animations*/
 .pwj-card .pwj-card-header .card-icon:after{
 	transition: all 0.3s ease-in-out;
@@ -541,7 +534,9 @@ section{
 	width: 14px;
 	margin: 3px;
 }
-
+#technology{
+	background-color: #f8f8f8;
+}
 
 
 
