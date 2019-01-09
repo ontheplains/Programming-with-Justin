@@ -392,9 +392,12 @@ section{
 	line-height: 200%;
 }
 .expert .bg-img{
-	background-image: url(../images/.jpg);
-	background-position-x: 85%;
-	height: 100%;
+	background-image: url(../images/altimeterlogo2.png);
+	background-position: center;
+	/* background-position-x: 85%; */
+	background-size: 50%;
+
+
 }
 .expert .bg-img:after{
 	display: none;
