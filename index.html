@@ -104,7 +104,7 @@
                     <div class="pwj-card-content">
                         <h3>Expressions Learning Center</h3>
                         <p>
-                          The Expressions Learner Center website is a single-page app which utilizes  Javascript, jQuery, and Sass to create design for potential customers. Additionally, it provides a responsive sign-up form to gather information.
+                          The Expressions Learner Center website is a single-page app which utilizes Javascript, jQuery, and Sass to create design for potential customers. Additionally, it provides a responsive sign-up form to gather information.
                         </p>
                     </div>
                 </div>
@@ -249,25 +249,32 @@
 </section>
 
 <!-- Email Contact Section -->
-
 <section class="email section bg-img">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
                 <p>Let's talk about how we can help each other...</p>
-                <form class="form-inline" action="https://formspree.io/justincaldwellslc@gmail.com" method="POST" />
-                    <div class="form-group">
-                        <input type="email" class="form-control" id="user-email" placeholder="Email here...">
-                    </div>
-                    <button type="submit" class="btn pwj-btn">Go!</button>
-                </form>
             </div>
+
+            <form method="POST" action="https://formspree.io/justincaldwellslc@gmail.com">
+              <div class="col-sm-4">
+                <input type="text" class="form-control" name="Name" placeholder="Name">
+              </div>
+
+              <div class="col-sm-4">
+                <input type="email" class="form-control" name="Email" placeholder="Email">
+              </div>
+
+              <div class="col-sm-4">
+                <textarea name="message" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <button type="submit" class="btn pwj-btn">Submit!</button>
+            </form>
         </div>
-    </div>
+      </div>
 </section>
 
 <!-- Hire Me Section -->
-
 <section id="hire" class="contact section">
     <div class="container">
         <h2 class="title">Hire Me</h2>
